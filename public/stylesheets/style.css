@@ -1,0 +1,17 @@
+@font-face {
+    
+    src: url('/fonts/CRENZO.ttf') format('truetype');
+    font-family: "crenzo";
+    font-style: normal;
+    font-weight: normal;
+}
+
+@import './variables.css';
+@import './general.css';
+@import './home.css';
+@import './productDetail.css';
+@import './productCart.css';
+@import './login.css';
+@import './register.css';
+
+
