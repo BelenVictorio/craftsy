@@ -4,10 +4,12 @@
     font-family: "crenzo";
     font-style: normal;
     font-weight: normal;
+
 }
 
 @import './variables.css';
 @import './general.css';
+@import './header.css';
 @import './home.css';
 @import './productDetail.css';
 @import './productCart.css';
